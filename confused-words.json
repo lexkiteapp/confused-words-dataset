@@ -1,0 +1,2271 @@
+{
+ "name": "Commonly confused English words (Lexkite)",
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "creator": "Lexkite Editorial Team",
+ "url": "https://lexkite.com/en/research/confused-words/",
+ "version": "2026-10-26",
+ "groups": [
+  {
+   "id": "affect-effect",
+   "words": [
+    {
+     "w": "affect",
+     "pos": "v",
+     "def": "to change or influence",
+     "ex": "Lack of sleep can affect your memory."
+    },
+    {
+     "w": "effect",
+     "pos": "n",
+     "def": "a change caused by something",
+     "ex": "Music has a calming effect on babies."
+    }
+   ],
+   "pattern": "n ↔ v",
+   "mistakes": [
+    {
+     "wrong": "It has a big affect on me.",
+     "right": "It has a big effect on me.",
+     "note": "After a/the/big you need the noun effect."
+    }
+   ],
+   "tip": "Affect = Action (verb), Effect = End result (noun).",
+   "lesson": "word-formation"
+  },
+  {
+   "id": "say-tell",
+   "words": [
+    {
+     "w": "say",
+     "pos": "v",
+     "def": "speak words",
+     "ex": "She said that she was tired."
+    },
+    {
+     "w": "tell",
+     "pos": "v",
+     "def": "give information to a person",
+     "ex": "She told me the truth."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "He said me that…",
+     "right": "He told me that…",
+     "note": "A listener right after the verb → tell."
+    }
+   ],
+   "tip": "tell + person; say + words (or say to sb). Fixed: tell a story/the truth/a lie, say sorry.",
+   "lesson": "reported-speech"
+  },
+  {
+   "id": "make-do",
+   "words": [
+    {
+     "w": "make",
+     "pos": "v",
+     "def": "create or produce",
+     "ex": "Can you make a cake for the party?"
+    },
+    {
+     "w": "do",
+     "pos": "v",
+     "def": "perform an activity or task",
+     "ex": "I need to do my homework."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "I made my homework.",
+     "right": "I did my homework.",
+     "note": "do homework."
+    },
+    {
+     "wrong": "She did a mistake.",
+     "right": "She made a mistake.",
+     "note": "make a mistake."
+    }
+   ],
+   "tip": "make = create (a decision, a mistake, money, progress); do = activities (homework, research, your best).",
+   "lesson": ""
+  },
+  {
+   "id": "borrow-lend",
+   "words": [
+    {
+     "w": "borrow",
+     "pos": "v",
+     "def": "take and use, then return",
+     "ex": "Can I borrow your charger?"
+    },
+    {
+     "w": "lend",
+     "pos": "v",
+     "def": "give for a short time",
+     "ex": "Could you lend me ten dollars?"
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Can you borrow me your pen?",
+     "right": "Can you lend me your pen?",
+     "note": "You receive → borrow; you give → lend."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "lie-lay",
+   "words": [
+    {
+     "w": "lie",
+     "pos": "v",
+     "def": "be in a flat position",
+     "ex": "I'm going to lie down for a bit."
+    },
+    {
+     "w": "lay",
+     "pos": "v",
+     "def": "put something down",
+     "ex": "Please lay the papers on the desk."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "I'm going to lay down for a bit.",
+     "right": "I'm going to lie down for a bit.",
+     "note": ""
+    }
+   ],
+   "tip": "Trap: the past of lie is lay. lie (tell a lie) – lied – lied.",
+   "lesson": ""
+  },
+  {
+   "id": "rise-raise",
+   "words": [
+    {
+     "w": "rise",
+     "pos": "v",
+     "def": "go up by itself",
+     "ex": "The sun rises in the east."
+    },
+    {
+     "w": "raise",
+     "pos": "v",
+     "def": "lift or increase something",
+     "ex": "The shop raised its prices."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "The sun raises in the east.",
+     "right": "The sun rises in the east.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "bring-take",
+   "words": [
+    {
+     "w": "bring",
+     "pos": "v",
+     "def": "carry towards the speaker",
+     "ex": "Please bring your laptop when you come here."
+    },
+    {
+     "w": "take",
+     "pos": "v",
+     "def": "carry away from the speaker",
+     "ex": "Don't forget to take an umbrella when you go out."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Please take your laptop when you come here.",
+     "right": "Please bring your laptop when you come here.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "see-look-watch",
+   "words": [
+    {
+     "w": "see",
+     "pos": "v",
+     "def": "notice with your eyes",
+     "ex": "Did you see that lightning?"
+    },
+    {
+     "w": "look",
+     "pos": "v",
+     "def": "turn your eyes on purpose",
+     "ex": "Look at this picture!"
+    },
+    {
+     "w": "watch",
+     "pos": "v",
+     "def": "look at something for a time",
+     "ex": "We watched the match on TV."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Did you watch that lightning?",
+     "right": "Did you see that lightning?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "hear-listen",
+   "words": [
+    {
+     "w": "hear",
+     "pos": "v",
+     "def": "notice a sound",
+     "ex": "Can you hear that noise?"
+    },
+    {
+     "w": "listen",
+     "pos": "v",
+     "def": "pay attention to a sound",
+     "ex": "Listen to me carefully."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Can you listen that noise?",
+     "right": "Can you hear that noise?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "speak-talk",
+   "words": [
+    {
+     "w": "speak",
+     "pos": "v",
+     "def": "use a language; talk formally",
+     "ex": "Do you speak Japanese?"
+    },
+    {
+     "w": "talk",
+     "pos": "v",
+     "def": "have a conversation",
+     "ex": "We talked about our plans for hours."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Do you talk Japanese?",
+     "right": "Do you speak Japanese?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "learn-study",
+   "words": [
+    {
+     "w": "learn",
+     "pos": "v",
+     "def": "gain knowledge or a skill",
+     "ex": "I learnt to swim last summer."
+    },
+    {
+     "w": "study",
+     "pos": "v",
+     "def": "spend time learning a subject",
+     "ex": "She is studying medicine at university."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "I studied to swim last summer.",
+     "right": "I learnt to swim last summer.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "remember-remind",
+   "words": [
+    {
+     "w": "remember",
+     "pos": "v",
+     "def": "keep in your memory",
+     "ex": "I can't remember his name."
+    },
+    {
+     "w": "remind",
+     "pos": "v",
+     "def": "make someone remember",
+     "ex": "Please remind me to call Mum."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Remember me to call her.",
+     "right": "Remind me to call her.",
+     "note": "Make someone remember → remind sb."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "rob-steal",
+   "words": [
+    {
+     "w": "rob",
+     "pos": "v",
+     "def": "take from a person or place",
+     "ex": "Two men robbed the bank."
+    },
+    {
+     "w": "steal",
+     "pos": "v",
+     "def": "take a thing illegally",
+     "ex": "Someone stole my bike."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Two men stole the bank.",
+     "right": "Two men robbed the bank.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "win-beat",
+   "words": [
+    {
+     "w": "win",
+     "pos": "v",
+     "def": "be first in a game",
+     "ex": "Vietnam won the match."
+    },
+    {
+     "w": "beat",
+     "pos": "v",
+     "def": "defeat an opponent",
+     "ex": "Vietnam beat Thailand 2–0."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "We won them.",
+     "right": "We beat them.",
+     "note": "win a game/prize; beat an opponent."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "fun-funny",
+   "words": [
+    {
+     "w": "fun",
+     "pos": "adj",
+     "def": "enjoyable",
+     "ex": "The party was really fun."
+    },
+    {
+     "w": "funny",
+     "pos": "adj",
+     "def": "making you laugh",
+     "ex": "He told a funny joke."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "The party was really funny.",
+     "right": "The party was really fun.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "economic-economical",
+   "words": [
+    {
+     "w": "economic",
+     "pos": "adj",
+     "def": "related to the economy",
+     "ex": "The country faces serious economic problems."
+    },
+    {
+     "w": "economical",
+     "pos": "adj",
+     "def": "not wasting money or fuel",
+     "ex": "This car is very economical to run."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "The country faces serious economical problems.",
+     "right": "The country faces serious economic problems.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "historic-historical",
+   "words": [
+    {
+     "w": "historic",
+     "pos": "adj",
+     "def": "important in history",
+     "ex": "It was a historic victory."
+    },
+    {
+     "w": "historical",
+     "pos": "adj",
+     "def": "related to the past",
+     "ex": "She writes historical novels."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "It was a historical victory.",
+     "right": "It was a historic victory.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "classic-classical",
+   "words": [
+    {
+     "w": "classic",
+     "pos": "adj",
+     "def": "of high quality, typical",
+     "ex": "Casablanca is a classic film."
+    },
+    {
+     "w": "classical",
+     "pos": "adj",
+     "def": "traditional; of ancient Greece/Rome",
+     "ex": "I listen to classical music."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "Casablanca is a classical film.",
+     "right": "Casablanca is a classic film.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "sensible-sensitive",
+   "words": [
+    {
+     "w": "sensible",
+     "pos": "adj",
+     "def": "showing good judgement",
+     "ex": "That's a sensible decision."
+    },
+    {
+     "w": "sensitive",
+     "pos": "adj",
+     "def": "easily upset or affected",
+     "ex": "She is very sensitive to criticism."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "That's a sensitive decision.",
+     "right": "That's a sensible decision.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "especially-specially",
+   "words": [
+    {
+     "w": "especially",
+     "pos": "adv",
+     "def": "above all; particularly",
+     "ex": "I love fruit, especially mangoes."
+    },
+    {
+     "w": "specially",
+     "pos": "adv",
+     "def": "for a particular purpose",
+     "ex": "This cake was made specially for you."
+    }
+   ],
+   "pattern": "adv ↔ adv",
+   "mistakes": [
+    {
+     "wrong": "I love fruit, specially mangoes.",
+     "right": "I love fruit, especially mangoes.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "beside-besides",
+   "words": [
+    {
+     "w": "beside",
+     "pos": "prep",
+     "def": "next to",
+     "ex": "Come and sit beside me."
+    },
+    {
+     "w": "besides",
+     "pos": "prep",
+     "def": "in addition (to)",
+     "ex": "Besides English, she speaks French."
+    }
+   ],
+   "pattern": "prep ↔ prep",
+   "mistakes": [
+    {
+     "wrong": "Come and sit besides me.",
+     "right": "Come and sit beside me.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "among-between",
+   "words": [
+    {
+     "w": "between",
+     "pos": "prep",
+     "def": "in the middle of two",
+     "ex": "The park is between the bank and the school."
+    },
+    {
+     "w": "among",
+     "pos": "prep",
+     "def": "surrounded by a group",
+     "ex": "The singer is popular among teenagers."
+    }
+   ],
+   "pattern": "prep ↔ prep",
+   "mistakes": [
+    {
+     "wrong": "The park is among the bank and the school.",
+     "right": "The park is between the bank and the school.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "since-for",
+   "words": [
+    {
+     "w": "for",
+     "pos": "prep",
+     "def": "over a period of",
+     "ex": "I've lived here for ten years."
+    },
+    {
+     "w": "since",
+     "pos": "prep",
+     "def": "from a point in time",
+     "ex": "I've lived here since 2015."
+    }
+   ],
+   "pattern": "prep ↔ prep",
+   "mistakes": [
+    {
+     "wrong": "I have studied English since 5 years.",
+     "right": "I have studied English for 5 years.",
+     "note": "A period → for."
+    }
+   ],
+   "tip": "",
+   "lesson": "present-perfect"
+  },
+  {
+   "id": "during-for",
+   "words": [
+    {
+     "w": "during",
+     "pos": "prep",
+     "def": "at some time in",
+     "ex": "I fell asleep during the film."
+    },
+    {
+     "w": "for",
+     "pos": "prep",
+     "def": "how long",
+     "ex": "I slept for two hours."
+    }
+   ],
+   "pattern": "prep ↔ prep",
+   "mistakes": [
+    {
+     "wrong": "I fell asleep for the film.",
+     "right": "I fell asleep during the film.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "ago-before",
+   "words": [
+    {
+     "w": "ago",
+     "pos": "adv",
+     "def": "before now",
+     "ex": "We met three years ago."
+    },
+    {
+     "w": "before",
+     "pos": "adv",
+     "def": "earlier than; at any time in the past",
+     "ex": "I had met her two years before the wedding."
+    }
+   ],
+   "pattern": "adv ↔ adv",
+   "mistakes": [
+    {
+     "wrong": "We met three years before.",
+     "right": "We met three years ago.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "already-yet",
+   "words": [
+    {
+     "w": "already",
+     "pos": "adv",
+     "def": "before now",
+     "ex": "I've already finished."
+    },
+    {
+     "w": "yet",
+     "pos": "adv",
+     "def": "until now",
+     "ex": "I haven't finished yet."
+    }
+   ],
+   "pattern": "adv ↔ adv",
+   "mistakes": [
+    {
+     "wrong": "I've yet finished.",
+     "right": "I've already finished.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "still-yet",
+   "words": [
+    {
+     "w": "still",
+     "pos": "adv",
+     "def": "continuing",
+     "ex": "It's still raining."
+    },
+    {
+     "w": "yet",
+     "pos": "adv",
+     "def": "until now (negative)",
+     "ex": "It hasn't stopped yet."
+    }
+   ],
+   "pattern": "adv ↔ adv",
+   "mistakes": [
+    {
+     "wrong": "It's yet raining.",
+     "right": "It's still raining.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "each-every",
+   "words": [
+    {
+     "w": "every",
+     "pos": "det",
+     "def": "all members of a group",
+     "ex": "Every student in the school wears a uniform."
+    },
+    {
+     "w": "each",
+     "pos": "det",
+     "def": "every one, separately",
+     "ex": "She had a bag in each hand."
+    }
+   ],
+   "pattern": "det ↔ det",
+   "mistakes": [
+    {
+     "wrong": "She had a bag in every hand.",
+     "right": "She had a bag in each hand.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "few-a-few",
+   "words": [
+    {
+     "w": "a few",
+     "pos": "det",
+     "def": "some, a small number",
+     "ex": "I have a few friends here, so I'm not lonely."
+    },
+    {
+     "w": "few",
+     "pos": "det",
+     "def": "not many",
+     "ex": "Few people understood the lecture, so it was a failure."
+    }
+   ],
+   "pattern": "det ↔ det",
+   "mistakes": [
+    {
+     "wrong": "I have few friends here, so I'm not lonely.",
+     "right": "I have a few friends here, so I'm not lonely.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "little-a-little",
+   "words": [
+    {
+     "w": "a little",
+     "pos": "det",
+     "def": "some, a small amount",
+     "ex": "There's a little milk left – enough for your tea."
+    },
+    {
+     "w": "little",
+     "pos": "det",
+     "def": "not much",
+     "ex": "There's little hope of finding them now."
+    }
+   ],
+   "pattern": "det ↔ det",
+   "mistakes": [
+    {
+     "wrong": "There's little milk left – enough for your tea.",
+     "right": "There's a little milk left – enough for your tea.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "fewer-less",
+   "words": [
+    {
+     "w": "fewer",
+     "pos": "det",
+     "def": "a smaller number of",
+     "ex": "There were fewer cars on the road."
+    },
+    {
+     "w": "less",
+     "pos": "det",
+     "def": "a smaller amount of",
+     "ex": "You should eat less sugar."
+    }
+   ],
+   "pattern": "det ↔ det",
+   "mistakes": [
+    {
+     "wrong": "There were less cars on the road.",
+     "right": "There were fewer cars on the road.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "much-many",
+   "words": [
+    {
+     "w": "many",
+     "pos": "det",
+     "def": "a large number of",
+     "ex": "How many books do you have?"
+    },
+    {
+     "w": "much",
+     "pos": "det",
+     "def": "a large amount of",
+     "ex": "How much water do you drink?"
+    }
+   ],
+   "pattern": "det ↔ det",
+   "mistakes": [
+    {
+     "wrong": "How much books do you have?",
+     "right": "How many books do you have?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": "countable-uncountable"
+  },
+  {
+   "id": "alone-lonely",
+   "words": [
+    {
+     "w": "alone",
+     "pos": "adj",
+     "def": "without other people",
+     "ex": "She lives alone."
+    },
+    {
+     "w": "lonely",
+     "pos": "adj",
+     "def": "sad because you are alone",
+     "ex": "He feels lonely in the big city."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "She lives lonely.",
+     "right": "She lives alone.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "bored-boring",
+   "words": [
+    {
+     "w": "bored",
+     "pos": "adj",
+     "def": "feeling no interest",
+     "ex": "I was bored during the lesson."
+    },
+    {
+     "w": "boring",
+     "pos": "adj",
+     "def": "not interesting",
+     "ex": "The lesson was boring."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "I was boring during the lesson.",
+     "right": "I was bored during the lesson.",
+     "note": ""
+    }
+   ],
+   "tip": "General rule: -ed = how you feel; -ing = what causes the feeling.",
+   "lesson": "ing-ed-adjectives-prepositions"
+  },
+  {
+   "id": "interested-interesting",
+   "words": [
+    {
+     "w": "interested",
+     "pos": "adj",
+     "def": "wanting to know more",
+     "ex": "I'm interested in history."
+    },
+    {
+     "w": "interesting",
+     "pos": "adj",
+     "def": "catching your attention",
+     "ex": "History is interesting."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "I'm interesting in history.",
+     "right": "I'm interested in history.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": "ing-ed-adjectives-prepositions"
+  },
+  {
+   "id": "excited-exciting",
+   "words": [
+    {
+     "w": "excited",
+     "pos": "adj",
+     "def": "very happy and eager",
+     "ex": "The children are excited about Tet."
+    },
+    {
+     "w": "exciting",
+     "pos": "adj",
+     "def": "making you excited",
+     "ex": "It was an exciting match."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "The children are exciting about Tet.",
+     "right": "The children are excited about Tet.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "job-work",
+   "words": [
+    {
+     "w": "job",
+     "pos": "n",
+     "def": "a paid position",
+     "ex": "She got a new job at a bank."
+    },
+    {
+     "w": "work",
+     "pos": "n",
+     "def": "activity; the place you work",
+     "ex": "I have a lot of work to do today."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "I'm looking for a work.",
+     "right": "I'm looking for a job. / I'm looking for work.",
+     "note": "work is uncountable – no a work."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "travel-trip-journey",
+   "words": [
+    {
+     "w": "travel",
+     "pos": "n",
+     "def": "going to places in general",
+     "ex": "Air travel is getting cheaper."
+    },
+    {
+     "w": "trip",
+     "pos": "n",
+     "def": "a short visit somewhere",
+     "ex": "We went on a day trip to Ha Long."
+    },
+    {
+     "w": "journey",
+     "pos": "n",
+     "def": "the act of travelling from one place to another",
+     "ex": "The journey from Hanoi to Hue takes 12 hours."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "I had a nice travel.",
+     "right": "I had a nice trip.",
+     "note": "travel as a noun is usually uncountable."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "advice-advise",
+   "words": [
+    {
+     "w": "advice",
+     "pos": "n",
+     "def": "an opinion about what to do",
+     "ex": "Can you give me some advice?"
+    },
+    {
+     "w": "advise",
+     "pos": "v",
+     "def": "tell someone what to do",
+     "ex": "I advise you to rest."
+    }
+   ],
+   "pattern": "n ↔ v",
+   "mistakes": [
+    {
+     "wrong": "She gave me many advices.",
+     "right": "She gave me a lot of advice.",
+     "note": "Uncountable: a piece of advice."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "practice-practise",
+   "words": [
+    {
+     "w": "practice",
+     "pos": "n",
+     "def": "regular training",
+     "ex": "Football practice is on Monday."
+    },
+    {
+     "w": "practise",
+     "pos": "v",
+     "def": "do regularly to improve",
+     "ex": "You need to practise every day."
+    }
+   ],
+   "pattern": "n ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Football practise is on Monday.",
+     "right": "Football practice is on Monday.",
+     "note": ""
+    }
+   ],
+   "tip": "American English uses practice for both.",
+   "lesson": ""
+  },
+  {
+   "id": "principal-principle",
+   "words": [
+    {
+     "w": "principal",
+     "pos": "n",
+     "def": "head of a school; main",
+     "ex": "The principal gave a speech."
+    },
+    {
+     "w": "principle",
+     "pos": "n",
+     "def": "a basic rule or belief",
+     "ex": "It's against my principles."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "The principle gave a speech.",
+     "right": "The principal gave a speech.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "compliment-complement",
+   "words": [
+    {
+     "w": "compliment",
+     "pos": "n",
+     "def": "an expression of praise",
+     "ex": "Thanks for the compliment!"
+    },
+    {
+     "w": "complement",
+     "pos": "n",
+     "def": "something that goes well with",
+     "ex": "The wine is a perfect complement to the meal."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "Thanks for the complement!",
+     "right": "Thanks for the compliment!",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "stationary-stationery",
+   "words": [
+    {
+     "w": "stationary",
+     "pos": "adj",
+     "def": "not moving",
+     "ex": "The traffic was stationary for an hour."
+    },
+    {
+     "w": "stationery",
+     "pos": "n",
+     "def": "paper, pens, etc.",
+     "ex": "We sell stationery and books."
+    }
+   ],
+   "pattern": "adj ↔ n",
+   "mistakes": [
+    {
+     "wrong": "The traffic was stationery for an hour.",
+     "right": "The traffic was stationary for an hour.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "lose-loose",
+   "words": [
+    {
+     "w": "lose",
+     "pos": "v",
+     "def": "stop having; fail to win",
+     "ex": "Don't lose your passport."
+    },
+    {
+     "w": "loose",
+     "pos": "adj",
+     "def": "not tight",
+     "ex": "These jeans are too loose."
+    }
+   ],
+   "pattern": "adj ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Don't loose your passport.",
+     "right": "Don't lose your passport.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "quiet-quite",
+   "words": [
+    {
+     "w": "quiet",
+     "pos": "adj",
+     "def": "making little noise",
+     "ex": "The library is very quiet."
+    },
+    {
+     "w": "quite",
+     "pos": "adv",
+     "def": "fairly",
+     "ex": "The test was quite hard."
+    }
+   ],
+   "pattern": "adj ↔ adv",
+   "mistakes": [
+    {
+     "wrong": "The library is very quite.",
+     "right": "The library is very quiet.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "than-then",
+   "words": [
+    {
+     "w": "than",
+     "pos": "conj",
+     "def": "used in comparisons",
+     "ex": "She is taller than me."
+    },
+    {
+     "w": "then",
+     "pos": "adv",
+     "def": "next; at that time",
+     "ex": "We had lunch and then went shopping."
+    }
+   ],
+   "pattern": "adv ↔ conj",
+   "mistakes": [
+    {
+     "wrong": "She is taller then me.",
+     "right": "She is taller than me.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "its-it-s",
+   "words": [
+    {
+     "w": "its",
+     "pos": "det",
+     "def": "belonging to it",
+     "ex": "The dog wagged its tail."
+    },
+    {
+     "w": "it's",
+     "pos": "contraction",
+     "def": "it is; it has",
+     "ex": "It's raining again."
+    }
+   ],
+   "pattern": "contraction ↔ det",
+   "mistakes": [
+    {
+     "wrong": "The dog wagged it's tail.",
+     "right": "The dog wagged its tail.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "their-there",
+   "words": [
+    {
+     "w": "their",
+     "pos": "det",
+     "def": "belonging to them",
+     "ex": "The students left their bags here."
+    },
+    {
+     "w": "there",
+     "pos": "adv",
+     "def": "in that place",
+     "ex": "There are three reasons."
+    },
+    {
+     "w": "they're",
+     "pos": "contraction",
+     "def": "they are",
+     "ex": "They're coming tomorrow."
+    }
+   ],
+   "pattern": "adv ↔ contraction ↔ det",
+   "mistakes": [
+    {
+     "wrong": "The students left there bags here.",
+     "right": "The students left their bags here.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "whose-who-s",
+   "words": [
+    {
+     "w": "whose",
+     "pos": "det",
+     "def": "belonging to which person",
+     "ex": "Whose phone is this?"
+    },
+    {
+     "w": "who's",
+     "pos": "contraction",
+     "def": "who is; who has",
+     "ex": "Who's coming to the party?"
+    }
+   ],
+   "pattern": "contraction ↔ det",
+   "mistakes": [
+    {
+     "wrong": "Who's phone is this?",
+     "right": "Whose phone is this?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "your-you-re",
+   "words": [
+    {
+     "w": "your",
+     "pos": "det",
+     "def": "belonging to you",
+     "ex": "Is this your coat?"
+    },
+    {
+     "w": "you're",
+     "pos": "contraction",
+     "def": "you are",
+     "ex": "You're welcome!"
+    }
+   ],
+   "pattern": "contraction ↔ det",
+   "mistakes": [
+    {
+     "wrong": "Is this you're coat?",
+     "right": "Is this your coat?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "accept-except",
+   "words": [
+    {
+     "w": "accept",
+     "pos": "v",
+     "def": "agree to take",
+     "ex": "Please accept my apology."
+    },
+    {
+     "w": "except",
+     "pos": "prep",
+     "def": "not including",
+     "ex": "Everyone came except Tom."
+    }
+   ],
+   "pattern": "prep ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Please except my apology.",
+     "right": "Please accept my apology.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "adapt-adopt",
+   "words": [
+    {
+     "w": "adapt",
+     "pos": "v",
+     "def": "change to fit",
+     "ex": "Animals adapt to their environment."
+    },
+    {
+     "w": "adopt",
+     "pos": "v",
+     "def": "take as your own",
+     "ex": "The school adopted a new policy."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Animals adopt to their environment.",
+     "right": "Animals adapt to their environment.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "emigrate-immigrate",
+   "words": [
+    {
+     "w": "emigrate",
+     "pos": "v",
+     "def": "leave your country to live elsewhere",
+     "ex": "His family emigrated from Vietnam in 1990."
+    },
+    {
+     "w": "immigrate",
+     "pos": "v",
+     "def": "come into a country to live",
+     "ex": "Many people immigrate to Canada every year."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "His family immigrated from Vietnam in 1990.",
+     "right": "His family emigrated from Vietnam in 1990.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "prevent-avoid",
+   "words": [
+    {
+     "w": "prevent",
+     "pos": "v",
+     "def": "stop something happening",
+     "ex": "Vaccines prevent disease."
+    },
+    {
+     "w": "avoid",
+     "pos": "v",
+     "def": "keep away from",
+     "ex": "I avoid eating fried food."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Vaccines avoid disease.",
+     "right": "Vaccines prevent disease.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "fit-suit-match",
+   "words": [
+    {
+     "w": "fit",
+     "pos": "v",
+     "def": "be the right size",
+     "ex": "These shoes don't fit me – they're too small."
+    },
+    {
+     "w": "suit",
+     "pos": "v",
+     "def": "look good on; be convenient",
+     "ex": "Red really suits you."
+    },
+    {
+     "w": "match",
+     "pos": "v",
+     "def": "go well together",
+     "ex": "Your bag matches your shoes."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "These shoes don't suit me – they're too small.",
+     "right": "These shoes don't fit me – they're too small.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "expect-wait-look-forward",
+   "words": [
+    {
+     "w": "expect",
+     "pos": "v",
+     "def": "think something will happen",
+     "ex": "I expect it will rain later."
+    },
+    {
+     "w": "wait",
+     "pos": "v",
+     "def": "stay until something happens",
+     "ex": "I'm waiting for the bus."
+    },
+    {
+     "w": "look forward to",
+     "pos": "v",
+     "def": "feel happy about something coming",
+     "ex": "I'm looking forward to the holiday."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "I wait it will rain later.",
+     "right": "I expect it will rain later.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "hope-wish",
+   "words": [
+    {
+     "w": "hope",
+     "pos": "v",
+     "def": "want something possible",
+     "ex": "I hope you pass the exam."
+    },
+    {
+     "w": "wish",
+     "pos": "v",
+     "def": "want something unreal",
+     "ex": "I wish I were taller."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "I wish you pass the exam.",
+     "right": "I hope you pass the exam.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": "mixed-conditionals-wish"
+  },
+  {
+   "id": "chance-opportunity-possibility",
+   "words": [
+    {
+     "w": "opportunity",
+     "pos": "n",
+     "def": "a good time to do something",
+     "ex": "The job is a great opportunity to learn."
+    },
+    {
+     "w": "possibility",
+     "pos": "n",
+     "def": "something that might happen",
+     "ex": "There is a possibility of rain."
+    },
+    {
+     "w": "chance",
+     "pos": "n",
+     "def": "opportunity; likelihood",
+     "ex": "Is there any chance you could help me?"
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "The job is a great possibility to learn.",
+     "right": "The job is a great opportunity to learn.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "cost-price",
+   "words": [
+    {
+     "w": "price",
+     "pos": "n",
+     "def": "the money asked for something",
+     "ex": "The shop cut its prices for the sale."
+    },
+    {
+     "w": "cost",
+     "pos": "n",
+     "def": "money needed to do or get something",
+     "ex": "The cost of living in cities is high."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "The shop cut its costs for the sale.",
+     "right": "The shop cut its prices for the sale.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "salary-wage",
+   "words": [
+    {
+     "w": "salary",
+     "pos": "n",
+     "def": "fixed yearly or monthly pay",
+     "ex": "Teachers' salaries are paid monthly."
+    },
+    {
+     "w": "wage",
+     "pos": "n",
+     "def": "pay per hour or week",
+     "ex": "The minimum wage rose this year."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "Teachers' wage are paid monthly.",
+     "right": "Teachers' salaries are paid monthly.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "house-home",
+   "words": [
+    {
+     "w": "house",
+     "pos": "n",
+     "def": "a building to live in",
+     "ex": "They bought a big house by the sea."
+    },
+    {
+     "w": "home",
+     "pos": "n",
+     "def": "the place where you live",
+     "ex": "I want to go home."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "I go to home after school.",
+     "right": "I go home after school.",
+     "note": "No to before home after verbs of movement."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "ensure-insure-assure",
+   "words": [
+    {
+     "w": "ensure",
+     "pos": "v",
+     "def": "make certain something happens",
+     "ex": "Please ensure that all doors are locked."
+    },
+    {
+     "w": "insure",
+     "pos": "v",
+     "def": "buy insurance for",
+     "ex": "You should insure your car."
+    },
+    {
+     "w": "assure",
+     "pos": "v",
+     "def": "tell someone confidently",
+     "ex": "I can assure you that it's safe."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Please insure that all doors are locked.",
+     "right": "Please ensure that all doors are locked.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "convince-persuade",
+   "words": [
+    {
+     "w": "convince",
+     "pos": "v",
+     "def": "make someone believe",
+     "ex": "She convinced me that she was right."
+    },
+    {
+     "w": "persuade",
+     "pos": "v",
+     "def": "make someone do",
+     "ex": "He persuaded me to join."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "He convinced that me to join.",
+     "right": "He persuaded me to join.",
+     "note": ""
+    }
+   ],
+   "tip": "convince sb to V is common now; convince sb that is the core use.",
+   "lesson": ""
+  },
+  {
+   "id": "discover-invent",
+   "words": [
+    {
+     "w": "discover",
+     "pos": "v",
+     "def": "find something that existed",
+     "ex": "Fleming discovered penicillin."
+    },
+    {
+     "w": "invent",
+     "pos": "v",
+     "def": "create something new",
+     "ex": "Who invented the telephone?"
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Fleming invented penicillin.",
+     "right": "Fleming discovered penicillin.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "at-the-end-in-the-end",
+   "words": [
+    {
+     "w": "at the end",
+     "pos": "phrase",
+     "def": "at the final point of",
+     "ex": "Sign your name at the end of the form."
+    },
+    {
+     "w": "in the end",
+     "pos": "phrase",
+     "def": "finally, after a long time",
+     "ex": "In the end, we decided to stay."
+    }
+   ],
+   "pattern": "phrase ↔ phrase",
+   "mistakes": [
+    {
+     "wrong": "Sign your name in the end of the form.",
+     "right": "Sign your name at the end of the form.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "on-time-in-time",
+   "words": [
+    {
+     "w": "on time",
+     "pos": "phrase",
+     "def": "at the planned time",
+     "ex": "The train left on time."
+    },
+    {
+     "w": "in time",
+     "pos": "phrase",
+     "def": "early enough",
+     "ex": "We got to the cinema just in time to see the start."
+    }
+   ],
+   "pattern": "phrase ↔ phrase",
+   "mistakes": [
+    {
+     "wrong": "The train left in time.",
+     "right": "The train left on time.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "like-as",
+   "words": [
+    {
+     "w": "like",
+     "pos": "prep",
+     "def": "similar to",
+     "ex": "She sings like an angel."
+    },
+    {
+     "w": "as",
+     "pos": "prep",
+     "def": "in the role of",
+     "ex": "He works as a nurse."
+    }
+   ],
+   "pattern": "prep ↔ prep",
+   "mistakes": [
+    {
+     "wrong": "She sings as an angel.",
+     "right": "She sings like an angel.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "sometime-sometimes",
+   "words": [
+    {
+     "w": "sometimes",
+     "pos": "adv",
+     "def": "on some occasions",
+     "ex": "I sometimes cook dinner."
+    },
+    {
+     "w": "sometime",
+     "pos": "adv",
+     "def": "at an unknown time",
+     "ex": "Let's meet sometime next week."
+    }
+   ],
+   "pattern": "adv ↔ adv",
+   "mistakes": [
+    {
+     "wrong": "I sometime cook dinner.",
+     "right": "I sometimes cook dinner.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "everyday-every-day",
+   "words": [
+    {
+     "w": "every day",
+     "pos": "phrase",
+     "def": "each day",
+     "ex": "I exercise every day."
+    },
+    {
+     "w": "everyday",
+     "pos": "adj",
+     "def": "ordinary, daily",
+     "ex": "Smartphones are part of everyday life."
+    }
+   ],
+   "pattern": "adj ↔ phrase",
+   "mistakes": [
+    {
+     "wrong": "I exercise everyday.",
+     "right": "I exercise every day.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "maybe-may-be",
+   "words": [
+    {
+     "w": "maybe",
+     "pos": "adv",
+     "def": "perhaps",
+     "ex": "Maybe we should leave."
+    },
+    {
+     "w": "may be",
+     "pos": "modal + be",
+     "def": "might be",
+     "ex": "The shop may be closed today."
+    }
+   ],
+   "pattern": "adv ↔ modal + be",
+   "mistakes": [
+    {
+     "wrong": "May be we should leave.",
+     "right": "Maybe we should leave.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "farther-further",
+   "words": [
+    {
+     "w": "farther",
+     "pos": "adj",
+     "def": "at a greater distance",
+     "ex": "The station is farther than I thought."
+    },
+    {
+     "w": "further",
+     "pos": "adj",
+     "def": "additional; more",
+     "ex": "For further information, call us."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "The station is more far than I thought.",
+     "right": "The station is farther than I thought.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "older-elder",
+   "words": [
+    {
+     "w": "older",
+     "pos": "adj",
+     "def": "of greater age",
+     "ex": "My brother is older than me."
+    },
+    {
+     "w": "elder",
+     "pos": "adj",
+     "def": "older (family, before a noun)",
+     "ex": "My elder sister lives in Paris."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "My brother is elder than me.",
+     "right": "My brother is older than me.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "continual-continuous",
+   "words": [
+    {
+     "w": "continuous",
+     "pos": "adj",
+     "def": "without a break",
+     "ex": "There was continuous rain for three days."
+    },
+    {
+     "w": "continual",
+     "pos": "adj",
+     "def": "happening again and again",
+     "ex": "I'm tired of your continual complaints."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "There was continual rain for three days.",
+     "right": "There was continuous rain for three days.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "effective-efficient",
+   "words": [
+    {
+     "w": "effective",
+     "pos": "adj",
+     "def": "producing the result you want",
+     "ex": "This medicine is very effective."
+    },
+    {
+     "w": "efficient",
+     "pos": "adj",
+     "def": "working well without waste",
+     "ex": "An efficient engine uses less fuel."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "This medicine is very efficient.",
+     "right": "This medicine is very effective.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "imply-infer",
+   "words": [
+    {
+     "w": "imply",
+     "pos": "v",
+     "def": "suggest without saying directly",
+     "ex": "Are you implying that I'm lying?"
+    },
+    {
+     "w": "infer",
+     "pos": "v",
+     "def": "reach a conclusion",
+     "ex": "From his tone, I inferred that he was angry."
+    }
+   ],
+   "pattern": "v ↔ v",
+   "mistakes": [
+    {
+     "wrong": "Are you inferring that I'm lying?",
+     "right": "Are you implying that I'm lying?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "altogether-all-together",
+   "words": [
+    {
+     "w": "altogether",
+     "pos": "adv",
+     "def": "in total; completely",
+     "ex": "That's 50 dollars altogether."
+    },
+    {
+     "w": "all together",
+     "pos": "phrase",
+     "def": "everyone at once",
+     "ex": "Let's sing all together now."
+    }
+   ],
+   "pattern": "adv ↔ phrase",
+   "mistakes": [
+    {
+     "wrong": "That's 50 dollars all together.",
+     "right": "That's 50 dollars altogether.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "alive-live",
+   "words": [
+    {
+     "w": "alive",
+     "pos": "adj",
+     "def": "not dead (after a verb)",
+     "ex": "Is the fish still alive?"
+    },
+    {
+     "w": "live",
+     "pos": "adj",
+     "def": "living (before a noun); broadcast now",
+     "ex": "They sell live fish at the market."
+    }
+   ],
+   "pattern": "adj ↔ adj",
+   "mistakes": [
+    {
+     "wrong": "Is the fish still live?",
+     "right": "Is the fish still alive?",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "damage-harm",
+   "words": [
+    {
+     "w": "damage",
+     "pos": "n",
+     "def": "physical harm to things",
+     "ex": "The storm caused serious damage to roads."
+    },
+    {
+     "w": "harm",
+     "pos": "n",
+     "def": "injury or hurt",
+     "ex": "There's no harm in asking."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "The flood caused many damages.",
+     "right": "The flood caused a lot of damage.",
+     "note": "damage (harm) is uncountable."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "almost-most",
+   "words": [
+    {
+     "w": "almost",
+     "pos": "adv",
+     "def": "nearly",
+     "ex": "Almost all students passed."
+    },
+    {
+     "w": "most",
+     "pos": "det",
+     "def": "the majority of",
+     "ex": "Most students passed."
+    }
+   ],
+   "pattern": "adv ↔ det",
+   "mistakes": [
+    {
+     "wrong": "Almost students like music.",
+     "right": "Most students like music. / Almost all students like music.",
+     "note": "almost can't go directly before a noun."
+    }
+   ],
+   "tip": "",
+   "lesson": ""
+  },
+  {
+   "id": "percent-percentage",
+   "words": [
+    {
+     "w": "percent",
+     "pos": "n",
+     "def": "out of a hundred (with a number)",
+     "ex": "Sales rose by 20 percent."
+    },
+    {
+     "w": "percentage",
+     "pos": "n",
+     "def": "a proportion, without a number",
+     "ex": "The percentage of women in work increased."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "Sales rose by 20 percentage.",
+     "right": "Sales rose by 20 percent.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": "numbers-data-language"
+  },
+  {
+   "id": "people-person",
+   "words": [
+    {
+     "w": "person",
+     "pos": "n",
+     "def": "one human",
+     "ex": "Only one person was late."
+    },
+    {
+     "w": "people",
+     "pos": "n",
+     "def": "more than one person",
+     "ex": "Many people are waiting."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "There are many peoples in the room.",
+     "right": "There are many people in the room.",
+     "note": "people is already plural."
+    }
+   ],
+   "tip": "",
+   "lesson": "noun-plurals"
+  },
+  {
+   "id": "nature-the-nature",
+   "words": [
+    {
+     "w": "nature",
+     "pos": "n",
+     "def": "the natural world",
+     "ex": "We should protect nature."
+    },
+    {
+     "w": "the environment",
+     "pos": "n",
+     "def": "the natural world around us",
+     "ex": "Plastic harms the environment."
+    }
+   ],
+   "pattern": "n ↔ n",
+   "mistakes": [
+    {
+     "wrong": "We should protect the nature.",
+     "right": "We should protect nature.",
+     "note": ""
+    }
+   ],
+   "tip": "",
+   "lesson": "articles"
+  }
+ ]
+}
