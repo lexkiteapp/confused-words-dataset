@@ -116,7 +116,7 @@
      "note": "You receive → borrow; you give → lend."
     }
    ],
-   "tip": "",
+   "tip": "Borrow brings it to you (borrow from sb); lend sends it away (lend to sb).",
    "lesson": ""
   },
   {
@@ -138,9 +138,9 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "I'm going to lay down for a bit.",
-     "right": "I'm going to lie down for a bit.",
-     "note": ""
+     "wrong": "Yesterday I laid on the sofa all afternoon.",
+     "right": "Yesterday I lay on the sofa all afternoon.",
+     "note": "No object → lie – lay – lain; laid is the past of lay (put down)."
     }
    ],
    "tip": "Trap: the past of lie is lay. lie (tell a lie) – lied – lied.",
@@ -165,12 +165,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "The sun raises in the east.",
-     "right": "The sun rises in the east.",
-     "note": ""
+     "wrong": "The price of petrol has raised a lot.",
+     "right": "The price of petrol has risen a lot.",
+     "note": "No object → rise – rose – risen."
     }
    ],
-   "tip": "",
+   "tip": "Raise always takes an object (raise something); rise never does: prices rise, a shop raises prices.",
    "lesson": ""
   },
   {
@@ -192,12 +192,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Please take your laptop when you come here.",
-     "right": "Please bring your laptop when you come here.",
-     "note": ""
+     "wrong": "I'll bring the kids to school before I go to work.",
+     "right": "I'll take the kids to school before I go to work.",
+     "note": "Carrying away from where you are → take."
     }
    ],
-   "tip": "",
+   "tip": "Bring = towards the speaker (here); take = away from the speaker (there).",
    "lesson": ""
   },
   {
@@ -225,12 +225,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Did you watch that lightning?",
-     "right": "Did you see that lightning?",
-     "note": ""
+     "wrong": "I like seeing football on TV.",
+     "right": "I like watching football on TV.",
+     "note": "Following something for a time → watch."
     }
    ],
-   "tip": "",
+   "tip": "See just happens; look at is on purpose (often still things); watch is for a while, usually something moving (TV, a match).",
    "lesson": ""
   },
   {
@@ -252,12 +252,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Can you listen that noise?",
-     "right": "Can you hear that noise?",
-     "note": ""
+     "wrong": "I listen music every day.",
+     "right": "I listen to music every day.",
+     "note": "With an object → listen to."
     }
    ],
-   "tip": "",
+   "tip": "Hear just happens; listen is on purpose. With an object it is always listen to.",
    "lesson": ""
   },
   {
@@ -279,12 +279,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Do you talk Japanese?",
-     "right": "Do you speak Japanese?",
-     "note": ""
+     "wrong": "She can talk three languages.",
+     "right": "She can speak three languages.",
+     "note": "Languages → speak."
     }
    ],
-   "tip": "",
+   "tip": "Speak + a language (speak English) or formal speech; talk = have a conversation (talk to/with sb, about sth).",
    "lesson": ""
   },
   {
@@ -306,12 +306,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "I studied to swim last summer.",
-     "right": "I learnt to swim last summer.",
-     "note": ""
+     "wrong": "I studied to ride a bike when I was six.",
+     "right": "I learned to ride a bike when I was six.",
+     "note": "Gaining a skill → learn to + verb."
     }
    ],
-   "tip": "",
+   "tip": "Study is the effort (study for an exam); learn is the result – now you know it (learn to swim).",
    "lesson": ""
   },
   {
@@ -338,7 +338,7 @@
      "note": "Make someone remember → remind sb."
     }
    ],
-   "tip": "",
+   "tip": "Remind needs another person: remind sb to do / of sth; remember happens in your own head.",
    "lesson": ""
   },
   {
@@ -360,12 +360,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Two men stole the bank.",
-     "right": "Two men robbed the bank.",
-     "note": ""
+     "wrong": "Someone robbed my phone on the bus.",
+     "right": "Someone stole my phone on the bus.",
+     "note": "The object is a thing → steal."
     }
    ],
-   "tip": "",
+   "tip": "You rob a person or place (rob a bank); you steal a thing (steal a bike from sb).",
    "lesson": ""
   },
   {
@@ -392,7 +392,7 @@
      "note": "win a game/prize; beat an opponent."
     }
    ],
-   "tip": "",
+   "tip": "Win + a game, prize or medal; beat + the opponent.",
    "lesson": ""
   },
   {
@@ -414,12 +414,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "The party was really funny.",
-     "right": "The party was really fun.",
-     "note": ""
+     "wrong": "The trip was funny – we enjoyed every minute.",
+     "right": "The trip was fun – we enjoyed every minute.",
+     "note": "Enjoyable, not laugh-out-loud → fun."
     }
    ],
-   "tip": "",
+   "tip": "Fun = enjoyable (a fun day); funny = makes you laugh (a funny joke).",
    "lesson": ""
   },
   {
@@ -441,12 +441,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "The country faces serious economical problems.",
-     "right": "The country faces serious economic problems.",
-     "note": ""
+     "wrong": "This heater is very economic to run.",
+     "right": "This heater is very economical to run.",
+     "note": "Saves money or fuel → economical."
     }
    ],
-   "tip": "",
+   "tip": "Economic = about the economy (economic growth); economical = saves money (an economical car).",
    "lesson": ""
   },
   {
@@ -468,12 +468,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "It was a historical victory.",
-     "right": "It was a historic victory.",
-     "note": ""
+     "wrong": "I enjoy historic films about ancient China.",
+     "right": "I enjoy historical films about ancient China.",
+     "note": "Set in the past (films, novels) → historical."
     }
    ],
-   "tip": "",
+   "tip": "Historic = important in history (a historic day); historical = about the past (historical records).",
    "lesson": ""
   },
   {
@@ -495,12 +495,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "Casablanca is a classical film.",
-     "right": "Casablanca is a classic film.",
-     "note": ""
+     "wrong": "She plays classic music on the piano.",
+     "right": "She plays classical music on the piano.",
+     "note": "Music like Mozart's → classical music."
     }
    ],
-   "tip": "",
+   "tip": "Classical = the classical tradition or ancient Greece/Rome (classical music); classic = a top, typical example (a classic film, a classic mistake).",
    "lesson": ""
   },
   {
@@ -522,12 +522,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "That's a sensitive decision.",
-     "right": "That's a sensible decision.",
-     "note": ""
+     "wrong": "My skin is very sensible to the sun.",
+     "right": "My skin is very sensitive to the sun.",
+     "note": "Easily affected → sensitive to."
     }
    ],
-   "tip": "",
+   "tip": "Sensible = showing good sense (not 'sensitive'); sensitive = easily hurt or affected.",
    "lesson": ""
   },
   {
@@ -549,12 +549,12 @@
    "pattern": "adv ↔ adv",
    "mistakes": [
     {
-     "wrong": "I love fruit, specially mangoes.",
-     "right": "I love fruit, especially mangoes.",
-     "note": ""
+     "wrong": "I like sports, specially football.",
+     "right": "I like sports, especially football.",
+     "note": "'Above all' → especially."
     }
    ],
-   "tip": "",
+   "tip": "Especially = above all; specially = for one purpose (made specially for you).",
    "lesson": ""
   },
   {
@@ -576,12 +576,12 @@
    "pattern": "prep ↔ prep",
    "mistakes": [
     {
-     "wrong": "Come and sit besides me.",
-     "right": "Come and sit beside me.",
-     "note": ""
+     "wrong": "Beside, the hotel is close to the beach.",
+     "right": "Besides, the hotel is close to the beach.",
+     "note": "'In addition' at the start of a sentence → Besides."
     }
    ],
-   "tip": "",
+   "tip": "Beside = next to; add an s for 'in addition' → besides.",
    "lesson": ""
   },
   {
@@ -603,12 +603,12 @@
    "pattern": "prep ↔ prep",
    "mistakes": [
     {
-     "wrong": "The park is among the bank and the school.",
-     "right": "The park is between the bank and the school.",
-     "note": ""
+     "wrong": "The house is among the river and the forest.",
+     "right": "The house is between the river and the forest.",
+     "note": "Two clear points → between."
     }
    ],
-   "tip": "",
+   "tip": "Between = separate, clear items (often two); among = inside a group or crowd.",
    "lesson": ""
   },
   {
@@ -635,7 +635,7 @@
      "note": "A period → for."
     }
    ],
-   "tip": "",
+   "tip": "For + a period (for three years); since + a starting point (since 2015, since Monday).",
    "lesson": "present-perfect"
   },
   {
@@ -657,12 +657,12 @@
    "pattern": "prep ↔ prep",
    "mistakes": [
     {
-     "wrong": "I fell asleep for the film.",
-     "right": "I fell asleep during the film.",
-     "note": ""
+     "wrong": "I stayed in Da Nang during three days.",
+     "right": "I stayed in Da Nang for three days.",
+     "note": "How long → for."
     }
    ],
-   "tip": "",
+   "tip": "During + an event or period (when?); for + a length of time (how long?).",
    "lesson": ""
   },
   {
@@ -684,12 +684,12 @@
    "pattern": "adv ↔ adv",
    "mistakes": [
     {
-     "wrong": "We met three years before.",
-     "right": "We met three years ago.",
-     "note": ""
+     "wrong": "I met him three years before, at university.",
+     "right": "I met him three years ago, at university.",
+     "note": "Counting back from now → ago."
     }
    ],
-   "tip": "",
+   "tip": "Ago counts back from now, with the past simple (two days ago); before counts back from another past time (two days before the trip).",
    "lesson": ""
   },
   {
@@ -711,12 +711,12 @@
    "pattern": "adv ↔ adv",
    "mistakes": [
     {
-     "wrong": "I've yet finished.",
-     "right": "I've already finished.",
-     "note": ""
+     "wrong": "I haven't already finished.",
+     "right": "I haven't finished yet.",
+     "note": "Negative → yet at the end."
     }
    ],
-   "tip": "",
+   "tip": "Already = sooner than expected, in positive sentences, mid-sentence; yet = in negatives and questions, usually at the end.",
    "lesson": ""
   },
   {
@@ -740,10 +740,10 @@
     {
      "wrong": "It's yet raining.",
      "right": "It's still raining.",
-     "note": ""
+     "note": "Something continuing → still."
     }
    ],
-   "tip": "",
+   "tip": "Still = something continues (before the main verb); yet in negatives = it hasn't happened (at the end).",
    "lesson": ""
   },
   {
@@ -765,12 +765,12 @@
    "pattern": "det ↔ det",
    "mistakes": [
     {
-     "wrong": "She had a bag in every hand.",
-     "right": "She had a bag in each hand.",
-     "note": ""
+     "wrong": "She wore a ring on every hand.",
+     "right": "She wore a ring on each hand.",
+     "note": "Only two → each."
     }
    ],
-   "tip": "",
+   "tip": "Each = one by one, separately (works for two); every = all as a group (three or more). Both take a singular noun.",
    "lesson": ""
   },
   {
@@ -792,12 +792,12 @@
    "pattern": "det ↔ det",
    "mistakes": [
     {
-     "wrong": "I have few friends here, so I'm not lonely.",
-     "right": "I have a few friends here, so I'm not lonely.",
-     "note": ""
+     "wrong": "Don't worry, I have few friends here who can help.",
+     "right": "Don't worry, I have a few friends here who can help.",
+     "note": "Positive 'some' → a few."
     }
    ],
-   "tip": "",
+   "tip": "A few = some, enough (positive); few = almost none (negative). Both + plural countable nouns.",
    "lesson": ""
   },
   {
@@ -819,12 +819,12 @@
    "pattern": "det ↔ det",
    "mistakes": [
     {
-     "wrong": "There's little milk left – enough for your tea.",
-     "right": "There's a little milk left – enough for your tea.",
-     "note": ""
+     "wrong": "Hurry up! We have a little time left.",
+     "right": "Hurry up! We have little time left.",
+     "note": "Almost none → little."
     }
    ],
-   "tip": "",
+   "tip": "A little = some, enough (positive); little = almost none (negative). Both + uncountable nouns.",
    "lesson": ""
   },
   {
@@ -846,12 +846,12 @@
    "pattern": "det ↔ det",
    "mistakes": [
     {
-     "wrong": "There were less cars on the road.",
-     "right": "There were fewer cars on the road.",
-     "note": ""
+     "wrong": "There were less people than last year.",
+     "right": "There were fewer people than last year.",
+     "note": "people is countable → fewer."
     }
    ],
-   "tip": "",
+   "tip": "Things you count (cars, people) → fewer; things you measure (sugar, time) → less.",
    "lesson": ""
   },
   {
@@ -873,12 +873,12 @@
    "pattern": "det ↔ det",
    "mistakes": [
     {
-     "wrong": "How much books do you have?",
-     "right": "How many books do you have?",
-     "note": ""
+     "wrong": "I don't have much friends.",
+     "right": "I don't have many friends.",
+     "note": "friends is countable → many."
     }
    ],
-   "tip": "",
+   "tip": "Many + plural countable nouns; much + uncountable nouns. In positive sentences a lot of sounds more natural.",
    "lesson": "countable-uncountable"
   },
   {
@@ -900,12 +900,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "She lives lonely.",
-     "right": "She lives alone.",
-     "note": ""
+     "wrong": "I like living lonely.",
+     "right": "I like living alone.",
+     "note": "Just 'by yourself' → alone."
     }
    ],
-   "tip": "",
+   "tip": "Alone = without other people (a fact); lonely = sad about it (a feeling). You can be alone without being lonely.",
    "lesson": ""
   },
   {
@@ -927,9 +927,9 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "I was boring during the lesson.",
-     "right": "I was bored during the lesson.",
-     "note": ""
+     "wrong": "I'm boring in this class.",
+     "right": "I'm bored in this class.",
+     "note": "How a person feels → bored."
     }
    ],
    "tip": "General rule: -ed = how you feel; -ing = what causes the feeling.",
@@ -954,12 +954,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "I'm interesting in history.",
-     "right": "I'm interested in history.",
-     "note": ""
+     "wrong": "I am interesting in music.",
+     "right": "I am interested in music.",
+     "note": "How you feel → interested in."
     }
    ],
-   "tip": "",
+   "tip": "-ed = how you feel (interested in); -ing = what makes you feel it (an interesting book).",
    "lesson": "ing-ed-adjectives-prepositions"
   },
   {
@@ -981,12 +981,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "The children are exciting about Tet.",
-     "right": "The children are excited about Tet.",
-     "note": ""
+     "wrong": "I'm so exciting about the trip.",
+     "right": "I'm so excited about the trip.",
+     "note": "How you feel → excited."
     }
    ],
-   "tip": "",
+   "tip": "Excited = how a person feels (excited about); exciting = what causes it (an exciting trip).",
    "lesson": ""
   },
   {
@@ -1013,7 +1013,7 @@
      "note": "work is uncountable – no a work."
     }
    ],
-   "tip": "",
+   "tip": "Job is countable (a job, two jobs); work is uncountable and general (a lot of work, go to work).",
    "lesson": ""
   },
   {
@@ -1046,7 +1046,7 @@
      "note": "travel as a noun is usually uncountable."
     }
    ],
-   "tip": "",
+   "tip": "Travel = travelling in general (usually uncountable); trip = a visit there and back (a business trip); journey = getting from A to B.",
    "lesson": ""
   },
   {
@@ -1073,7 +1073,7 @@
      "note": "Uncountable: a piece of advice."
     }
    ],
-   "tip": "",
+   "tip": "Advice (with c, said /s/) is the noun; advise (with s, said /z/) is the verb.",
    "lesson": ""
   },
   {
@@ -1095,9 +1095,9 @@
    "pattern": "n ↔ v",
    "mistakes": [
     {
-     "wrong": "Football practise is on Monday.",
-     "right": "Football practice is on Monday.",
-     "note": ""
+     "wrong": "We have football practise on Monday.",
+     "right": "We have football practice on Monday.",
+     "note": "The noun is always practice (UK and US)."
     }
    ],
    "tip": "American English uses practice for both.",
@@ -1122,12 +1122,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "The principle gave a speech.",
-     "right": "The principal gave a speech.",
-     "note": ""
+     "wrong": "It's a matter of principal.",
+     "right": "It's a matter of principle.",
+     "note": "A rule or belief → principle."
     }
    ],
-   "tip": "",
+   "tip": "The principal is your pal (head of a school; main); a principle is a rule (both end in -le).",
    "lesson": ""
   },
   {
@@ -1149,12 +1149,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "Thanks for the complement!",
-     "right": "Thanks for the compliment!",
-     "note": ""
+     "wrong": "She complemented me on my English.",
+     "right": "She complimented me on my English.",
+     "note": "Praise → compliment."
     }
    ],
-   "tip": "",
+   "tip": "Compliment = praise (I like it!); complement = makes something complete.",
    "lesson": ""
   },
   {
@@ -1176,12 +1176,12 @@
    "pattern": "adj ↔ n",
    "mistakes": [
     {
-     "wrong": "The traffic was stationery for an hour.",
-     "right": "The traffic was stationary for an hour.",
-     "note": ""
+     "wrong": "I bought some stationary for school.",
+     "right": "I bought some stationery for school.",
+     "note": "Paper and pens → stationery."
     }
    ],
-   "tip": "",
+   "tip": "Stationary = standing still; stationery = envelopes, paper and pens.",
    "lesson": ""
   },
   {
@@ -1203,12 +1203,12 @@
    "pattern": "adj ↔ v",
    "mistakes": [
     {
-     "wrong": "Don't loose your passport.",
-     "right": "Don't lose your passport.",
-     "note": ""
+     "wrong": "I don't want to loose my job.",
+     "right": "I don't want to lose my job.",
+     "note": "The verb → lose."
     }
    ],
-   "tip": "",
+   "tip": "Lose /luːz/ is the verb and has lost an o; loose /luːs/ is the adjective, with room for two.",
    "lesson": ""
   },
   {
@@ -1230,12 +1230,12 @@
    "pattern": "adj ↔ adv",
    "mistakes": [
     {
-     "wrong": "The library is very quite.",
-     "right": "The library is very quiet.",
-     "note": ""
+     "wrong": "Please be quite in the library.",
+     "right": "Please be quiet in the library.",
+     "note": "No noise → quiet."
     }
    ],
-   "tip": "",
+   "tip": "Quiet /ˈkwaɪət/ has two syllables = silent; quite /kwaɪt/ has one = fairly.",
    "lesson": ""
   },
   {
@@ -1257,12 +1257,12 @@
    "pattern": "adv ↔ conj",
    "mistakes": [
     {
-     "wrong": "She is taller then me.",
-     "right": "She is taller than me.",
-     "note": ""
+     "wrong": "My sister is older then me.",
+     "right": "My sister is older than me.",
+     "note": "Comparison → than."
     }
    ],
-   "tip": "",
+   "tip": "Than is for comparing; then is for when and next.",
    "lesson": ""
   },
   {
@@ -1284,12 +1284,12 @@
    "pattern": "contraction ↔ det",
    "mistakes": [
     {
-     "wrong": "The dog wagged it's tail.",
-     "right": "The dog wagged its tail.",
-     "note": ""
+     "wrong": "The company changed it's name.",
+     "right": "The company changed its name.",
+     "note": "Possessive → its, no apostrophe."
     }
    ],
-   "tip": "",
+   "tip": "Test: replace it with it is or it has. If that works, write it's; if not, write its (possessive, like his).",
    "lesson": ""
   },
   {
@@ -1317,12 +1317,12 @@
    "pattern": "adv ↔ contraction ↔ det",
    "mistakes": [
     {
-     "wrong": "The students left there bags here.",
-     "right": "The students left their bags here.",
-     "note": ""
+     "wrong": "Their are many problems.",
+     "right": "There are many problems.",
+     "note": "Saying something exists → There is/are."
     }
    ],
-   "tip": "",
+   "tip": "Their contains heir (ownership); there contains here (place, there is); they're = they are.",
    "lesson": ""
   },
   {
@@ -1344,12 +1344,12 @@
    "pattern": "contraction ↔ det",
    "mistakes": [
     {
-     "wrong": "Who's phone is this?",
-     "right": "Whose phone is this?",
-     "note": ""
+     "wrong": "Who's bag is this?",
+     "right": "Whose bag is this?",
+     "note": "Ownership → whose."
     }
    ],
-   "tip": "",
+   "tip": "Test: replace it with who is or who has. If that works, who's; if it means 'belonging to whom', whose.",
    "lesson": ""
   },
   {
@@ -1371,12 +1371,12 @@
    "pattern": "contraction ↔ det",
    "mistakes": [
     {
-     "wrong": "Is this you're coat?",
-     "right": "Is this your coat?",
-     "note": ""
+     "wrong": "Your welcome!",
+     "right": "You're welcome!",
+     "note": "You're welcome = you are welcome."
     }
    ],
-   "tip": "",
+   "tip": "Test: replace it with you are. If that works, you're; if not, your (belonging to you).",
    "lesson": ""
   },
   {
@@ -1398,12 +1398,12 @@
    "pattern": "prep ↔ v",
    "mistakes": [
     {
-     "wrong": "Please except my apology.",
-     "right": "Please accept my apology.",
-     "note": ""
+     "wrong": "I except your invitation.",
+     "right": "I accept your invitation.",
+     "note": "Agree to take → accept."
     }
    ],
-   "tip": "",
+   "tip": "Accept (verb) = take or agree to; except (preposition) = not including – ex- means 'out'.",
    "lesson": ""
   },
   {
@@ -1425,12 +1425,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Animals adopt to their environment.",
-     "right": "Animals adapt to their environment.",
-     "note": ""
+     "wrong": "It took me months to adopt to life in London.",
+     "right": "It took me months to adapt to life in London.",
+     "note": "Change to fit → adapt to."
     }
    ],
-   "tip": "",
+   "tip": "Adapt = change to fit (adapt to); adopt = take as your own (adopt a child, adopt a policy).",
    "lesson": ""
   },
   {
@@ -1457,7 +1457,7 @@
      "note": ""
     }
    ],
-   "tip": "",
+   "tip": "Emigrate = exit your country (from); immigrate = come in to a new one (to). Same move, different point of view.",
    "lesson": ""
   },
   {
@@ -1479,12 +1479,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Vaccines avoid disease.",
-     "right": "Vaccines prevent disease.",
-     "note": ""
+     "wrong": "The rain avoided us from going out.",
+     "right": "The rain prevented us from going out.",
+     "note": "Stopping someone → prevent sb from + -ing."
     }
    ],
-   "tip": "",
+   "tip": "Prevent = stop something happening (prevent sb from doing); avoid = keep yourself away (avoid + -ing).",
    "lesson": ""
   },
   {
@@ -1512,12 +1512,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "These shoes don't suit me – they're too small.",
-     "right": "These shoes don't fit me – they're too small.",
-     "note": ""
+     "wrong": "This dress doesn't suit me – it's too tight.",
+     "right": "This dress doesn't fit me – it's too tight.",
+     "note": "Size → fit."
     }
    ],
-   "tip": "",
+   "tip": "Fit = the right size; suit = looks good on a person, or is convenient; match = two things go together.",
    "lesson": ""
   },
   {
@@ -1545,12 +1545,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "I wait it will rain later.",
-     "right": "I expect it will rain later.",
-     "note": ""
+     "wrong": "I look forward to see you.",
+     "right": "I look forward to seeing you.",
+     "note": "to is a preposition here → -ing."
     }
    ],
-   "tip": "",
+   "tip": "Expect = think it will happen; wait for = spend time until it happens; look forward to + -ing = feel happy about it.",
    "lesson": ""
   },
   {
@@ -1572,12 +1572,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "I wish you pass the exam.",
+     "wrong": "I wish you will pass the exam.",
      "right": "I hope you pass the exam.",
-     "note": ""
+     "note": "Something possible → hope."
     }
    ],
-   "tip": "",
+   "tip": "Hope = something possible (hope + present/future); wish = something unreal (wish + past: I wish I were…).",
    "lesson": "mixed-conditionals-wish"
   },
   {
@@ -1605,12 +1605,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "The job is a great possibility to learn.",
-     "right": "The job is a great opportunity to learn.",
-     "note": ""
+     "wrong": "This job gives me the possibility to travel.",
+     "right": "This job gives me the opportunity to travel.",
+     "note": "A chance to do something → opportunity to."
     }
    ],
-   "tip": "",
+   "tip": "Opportunity = a good moment to do something (to do); possibility = something might happen (of); chance can mean both and is less formal.",
    "lesson": ""
   },
   {
@@ -1632,12 +1632,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "The shop cut its costs for the sale.",
-     "right": "The shop cut its prices for the sale.",
-     "note": ""
+     "wrong": "The price of living in Hanoi is rising.",
+     "right": "The cost of living in Hanoi is rising.",
+     "note": "Fixed phrase: the cost of living."
     }
    ],
-   "tip": "",
+   "tip": "Price = what the seller asks; cost = what you must spend to do or get something (the cost of living).",
    "lesson": ""
   },
   {
@@ -1659,12 +1659,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "Teachers' wage are paid monthly.",
-     "right": "Teachers' salaries are paid monthly.",
-     "note": ""
+     "wrong": "The minimum salary rose this year.",
+     "right": "The minimum wage rose this year.",
+     "note": "Fixed phrase: minimum wage."
     }
    ],
-   "tip": "",
+   "tip": "Salary = fixed monthly or yearly pay; wage = paid by the hour or week (the minimum wage).",
    "lesson": ""
   },
   {
@@ -1691,7 +1691,7 @@
      "note": "No to before home after verbs of movement."
     }
    ],
-   "tip": "",
+   "tip": "House = the building; home = where you live and belong. go/come/get home – no to.",
    "lesson": ""
   },
   {
@@ -1719,12 +1719,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Please insure that all doors are locked.",
-     "right": "Please ensure that all doors are locked.",
-     "note": ""
+     "wrong": "I ensure you that it's safe.",
+     "right": "I assure you that it's safe.",
+     "note": "Promising a person → assure sb."
     }
    ],
-   "tip": "",
+   "tip": "Ensure = make sure it happens; insure = buy insurance; assure = tell a person confidently (assure sb that…).",
    "lesson": ""
   },
   {
@@ -1773,12 +1773,12 @@
    "pattern": "v ↔ v",
    "mistakes": [
     {
-     "wrong": "Fleming invented penicillin.",
-     "right": "Fleming discovered penicillin.",
-     "note": ""
+     "wrong": "Who discovered the telephone?",
+     "right": "Who invented the telephone?",
+     "note": "A new device → invent."
     }
    ],
-   "tip": "",
+   "tip": "Discover = find something that already existed (a planet, a law of nature); invent = create something new (a machine).",
    "lesson": ""
   },
   {
@@ -1800,12 +1800,12 @@
    "pattern": "phrase ↔ phrase",
    "mistakes": [
     {
-     "wrong": "Sign your name in the end of the form.",
-     "right": "Sign your name at the end of the form.",
-     "note": ""
+     "wrong": "In the end of the film, they get married.",
+     "right": "At the end of the film, they get married.",
+     "note": "Followed by of → at the end of."
     }
    ],
-   "tip": "",
+   "tip": "At the end of sth = the final point of it; in the end = finally, after everything (stands alone).",
    "lesson": ""
   },
   {
@@ -1827,12 +1827,12 @@
    "pattern": "phrase ↔ phrase",
    "mistakes": [
     {
-     "wrong": "The train left in time.",
-     "right": "The train left on time.",
-     "note": ""
+     "wrong": "We arrived on time to catch the last bus.",
+     "right": "We arrived in time to catch the last bus.",
+     "note": "Early enough to do something → in time to."
     }
    ],
-   "tip": "",
+   "tip": "On time = at the planned time; in time = early enough (in time for sth / to do).",
    "lesson": ""
   },
   {
@@ -1854,12 +1854,12 @@
    "pattern": "prep ↔ prep",
    "mistakes": [
     {
-     "wrong": "She sings as an angel.",
-     "right": "She sings like an angel.",
-     "note": ""
+     "wrong": "She works like a teacher.",
+     "right": "She works as a teacher.",
+     "note": "A real job or role → as."
     }
    ],
-   "tip": "",
+   "tip": "Like = similar to (not really); as = in the role of (really).",
    "lesson": ""
   },
   {
@@ -1881,12 +1881,12 @@
    "pattern": "adv ↔ adv",
    "mistakes": [
     {
-     "wrong": "I sometime cook dinner.",
-     "right": "I sometimes cook dinner.",
-     "note": ""
+     "wrong": "Let's have dinner together sometimes next week.",
+     "right": "Let's have dinner together sometime next week.",
+     "note": "One unknown time → sometime."
     }
    ],
-   "tip": "",
+   "tip": "With -s = several times → sometimes; without → sometime (at some point).",
    "lesson": ""
   },
   {
@@ -1908,12 +1908,12 @@
    "pattern": "adj ↔ phrase",
    "mistakes": [
     {
-     "wrong": "I exercise everyday.",
-     "right": "I exercise every day.",
-     "note": ""
+     "wrong": "I go jogging everyday.",
+     "right": "I go jogging every day.",
+     "note": "'Each day' → every day."
     }
    ],
-   "tip": "",
+   "tip": "Everyday (one word) is an adjective before a noun; every day = each day. If every single day works, write two words.",
    "lesson": ""
   },
   {
@@ -1935,12 +1935,12 @@
    "pattern": "adv ↔ modal + be",
    "mistakes": [
     {
-     "wrong": "May be we should leave.",
-     "right": "Maybe we should leave.",
-     "note": ""
+     "wrong": "He maybe late today.",
+     "right": "He may be late today.",
+     "note": "The sentence needs a verb → may be."
     }
    ],
-   "tip": "",
+   "tip": "Maybe (one word) = perhaps, usually at the start; may be is a verb – if might be works, write two words.",
    "lesson": ""
   },
   {
@@ -1962,12 +1962,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "The station is more far than I thought.",
-     "right": "The station is farther than I thought.",
-     "note": ""
+     "wrong": "The beach is more far than I thought.",
+     "right": "The beach is farther than I thought.",
+     "note": "Comparative of far → farther/further."
     }
    ],
-   "tip": "",
+   "tip": "Physical distance: farther or further; 'more, additional' is only further (further information). Never more far.",
    "lesson": ""
   },
   {
@@ -1989,12 +1989,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "My brother is elder than me.",
-     "right": "My brother is older than me.",
-     "note": ""
+     "wrong": "My brother is two years elder than me.",
+     "right": "My brother is two years older than me.",
+     "note": "With than → older."
     }
    ],
-   "tip": "",
+   "tip": "Elder is for family members, before a noun (my elder sister); with than always use older.",
    "lesson": ""
   },
   {
@@ -2016,12 +2016,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "There was continual rain for three days.",
-     "right": "There was continuous rain for three days.",
-     "note": ""
+     "wrong": "We had continual rain for 48 hours without stopping.",
+     "right": "We had continuous rain for 48 hours without stopping.",
+     "note": "Never stopping → continuous."
     }
    ],
-   "tip": "",
+   "tip": "Continuous = without a break (one unbroken line); continual = again and again, with breaks (often annoying).",
    "lesson": ""
   },
   {
@@ -2043,12 +2043,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "This medicine is very efficient.",
-     "right": "This medicine is very effective.",
-     "note": ""
+     "wrong": "This engine is very effective – it uses little fuel.",
+     "right": "This engine is very efficient – it uses little fuel.",
+     "note": "Little waste → efficient."
     }
    ],
-   "tip": "",
+   "tip": "Effective = gets the result you want; efficient = does it without wasting time, money or energy.",
    "lesson": ""
   },
   {
@@ -2072,10 +2072,10 @@
     {
      "wrong": "Are you inferring that I'm lying?",
      "right": "Are you implying that I'm lying?",
-     "note": ""
+     "note": "The speaker suggests → imply."
     }
    ],
-   "tip": "",
+   "tip": "The speaker implies; the listener infers. Meaning goes out of the speaker and into the listener.",
    "lesson": ""
   },
   {
@@ -2097,12 +2097,12 @@
    "pattern": "adv ↔ phrase",
    "mistakes": [
     {
-     "wrong": "That's 50 dollars all together.",
-     "right": "That's 50 dollars altogether.",
-     "note": ""
+     "wrong": "That will be 30 dollars all together.",
+     "right": "That will be 30 dollars altogether.",
+     "note": "In total → altogether."
     }
    ],
-   "tip": "",
+   "tip": "Altogether = in total; completely; all together = everyone at once (you can split it: we all went together).",
    "lesson": ""
   },
   {
@@ -2124,12 +2124,12 @@
    "pattern": "adj ↔ adj",
    "mistakes": [
     {
-     "wrong": "Is the fish still live?",
-     "right": "Is the fish still alive?",
-     "note": ""
+     "wrong": "They sell alive crabs at the market.",
+     "right": "They sell live crabs at the market.",
+     "note": "Before a noun → live."
     }
    ],
-   "tip": "",
+   "tip": "Alive goes after a verb (is alive); live /laɪv/ goes before a noun (live fish, live music).",
    "lesson": ""
   },
   {
@@ -2156,7 +2156,7 @@
      "note": "damage (harm) is uncountable."
     }
    ],
-   "tip": "",
+   "tip": "Damage is mostly for things (buildings, roads); harm is mostly for people and health (there's no harm in…).",
    "lesson": ""
   },
   {
@@ -2183,7 +2183,7 @@
      "note": "almost can't go directly before a noun."
     }
    ],
-   "tip": "",
+   "tip": "Almost = nearly, goes with all/every/no/always; most + noun = the majority (most students).",
    "lesson": ""
   },
   {
@@ -2205,12 +2205,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "Sales rose by 20 percentage.",
-     "right": "Sales rose by 20 percent.",
-     "note": ""
+     "wrong": "The percent of students who passed rose.",
+     "right": "The percentage of students who passed rose.",
+     "note": "No number → percentage."
     }
    ],
-   "tip": "",
+   "tip": "With a number → percent (20 percent); without a number → percentage (a high percentage of…).",
    "lesson": "numbers-data-language"
   },
   {
@@ -2237,7 +2237,7 @@
      "note": "people is already plural."
     }
    ],
-   "tip": "",
+   "tip": "Person = one; people = more than one and already plural (people are). Peoples means 'nations'.",
    "lesson": "noun-plurals"
   },
   {
@@ -2259,12 +2259,12 @@
    "pattern": "n ↔ n",
    "mistakes": [
     {
-     "wrong": "We should protect the nature.",
-     "right": "We should protect nature.",
-     "note": ""
+     "wrong": "We must protect the nature.",
+     "right": "We must protect nature.",
+     "note": "Nature in general → no the."
     }
    ],
-   "tip": "",
+   "tip": "Nature (the natural world) takes no the; the environment always takes the.",
    "lesson": "articles"
   }
  ]
