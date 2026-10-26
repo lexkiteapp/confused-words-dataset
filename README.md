@@ -22,10 +22,15 @@ Built by the **Lexkite Editorial Team** from Lexkite's own editorial content. It
 | `definitions` | Short English definition per word, separated by ` \| ` |
 | `example` | Original example sentence per word, separated by ` \| ` |
 | `typical_mistake` / `correction` | A common learner mistake and its corrected form |
-| `mistake_note` | Why the mistake is wrong |
+| `mistake_note` | Why the mistake is wrong (empty for 2 groups with no clear-cut learner error: emigrate/immigrate, convince/persuade) |
 | `mistakes_documented` | Number of documented mistakes for the group |
-| `memory_tip` | A short tip to remember the difference |
+| `memory_tip` | A short tip to remember the difference (every group has one) |
 | `related_lesson` | Related Lexkite lesson slug |
+
+## Changelog
+
+- **v1.1.0 (2026-10-26):** every group now has a `memory_tip` (75 were empty in v1.0.0); `mistake_note` added for 66 more groups (80 of 82 filled).
+- **v1.0.0 (2026-10-26):** first release.
 
 ## Limitations
 
@@ -33,4 +38,4 @@ This is an **editorially curated list**, not a measured frequency of learner err
 
 ## How to cite
 
-Lexkite Editorial Team (2026). *Commonly confused English words: an open dataset* (version 2026-10-26). Lexkite. https://lexkite.com/en/research/confused-words/. https://doi.org/10.5281/zenodo.23662626. CC BY 4.0.
+Lexkite Editorial Team (2026). *Commonly confused English words: an open dataset* (version 1.1.0). Lexkite. https://lexkite.com/en/research/confused-words/. https://doi.org/10.5281/zenodo.23662626. CC BY 4.0.
