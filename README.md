@@ -1,5 +1,7 @@
 # Commonly Confused English Words: an open dataset (Lexkite)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23662626.svg)](https://doi.org/10.5281/zenodo.23662626)
+
 82 groups of English words that learners often mix up (affect/effect, borrow/lend, lie/lay…). Each group lists every word with its part of speech, a short English definition, an original example sentence, a typical mistake with its correction and a memory tip.
 
 Built by the **Lexkite Editorial Team** from Lexkite's own editorial content. It contains **no user data**.
@@ -31,4 +33,4 @@ This is an **editorially curated list**, not a measured frequency of learner err
 
 ## How to cite
 
-Lexkite Editorial Team (2026). *Commonly confused English words: an open dataset* (version 2026-10-26). Lexkite. https://lexkite.com/en/research/confused-words/. CC BY 4.0.
+Lexkite Editorial Team (2026). *Commonly confused English words: an open dataset* (version 2026-10-26). Lexkite. https://lexkite.com/en/research/confused-words/. https://doi.org/10.5281/zenodo.23662626. CC BY 4.0.
